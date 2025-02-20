@@ -21,13 +21,13 @@ Before running the script, ensure that you have:
 5. Created a CSV file containing the event details.
 
 ## Installation & Usage
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```sh
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
 ```
 
-### 2️⃣ Configure Authentication
+### Configure Authentication
 Update the script with your Azure AD credentials:
 ```powershell
 $TenantId = "your-tenant-id"
