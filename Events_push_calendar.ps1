@@ -1,5 +1,12 @@
 # Microsoft 365 Group Event Pusher
-
+$TenantId = 
+$ClientId = 
+$ClientSecret = 
+$groupId = 
+$excelFilePath = "/Users/username/Downloads/Meetings_name.xls"
+$csvFilePath = "/Users/username/Downloads/Meetings_name.csv"
+$pythonScriptPath = "/Users/username/Downloads/name_excel.py"
+$logFilePath = "/Users/username/Downloads/EventPusher.log"
 
 # Create Python conversion script
 @"
